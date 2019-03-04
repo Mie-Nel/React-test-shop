@@ -1,0 +1,10 @@
+.TableHeader th {
+  padding: 15px 25px;
+  border-bottom: 1px solid #c9c9c9;
+  color: #525252;
+  font-size: 15px;
+}
+
+.TableHeader th:nth-child(2) {
+  text-align: left;
+}

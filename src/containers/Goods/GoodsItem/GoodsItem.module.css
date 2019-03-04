@@ -1,0 +1,39 @@
+.GoodsItem td {
+  padding: 20px 25px;
+  border-bottom: 1px solid #c9c9c9;
+  text-align: right;
+  color: #666565;
+  font-size: 15px;
+}
+
+.GoodsItem .name {
+  text-align: left;
+  color: #070707;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.GoodsItem .trend {
+  color: #318d58;
+}
+
+.GoodsItem .reviews {
+  color: #807918;
+  font-weight: bold;
+}
+
+.GoodsItem .reviews i {
+  margin-right: 5px;
+  color: #666565;
+}
+
+.GoodsItem .priceSegment span {
+  display: inline-block;
+  padding: 5px 15px;
+  border: 1px solid #948c20;
+  border-radius: 15px;
+}
+
+.GoodsItem .priceSegment span i {
+  font-size: 12px;
+}
